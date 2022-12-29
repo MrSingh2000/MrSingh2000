@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshuman Singh</h1>
 <h3 align="center">A passionate full-stack (MERN) developer from India</h3>
 
-- 💬 Ask me about **React, Git & Nodejs**
+- 💬 Ask me about **Nextjs, Typescript & Nestjs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
