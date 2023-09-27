@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anshuman Singh</h1>
+<h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
-- 👨‍💻 All of my projects are available at [https://anshumansingh.netlify.app](https://anshumansingh.netlify.app)
 
 - 💬 Ask me about **MERN stack & Blockchain**
 
